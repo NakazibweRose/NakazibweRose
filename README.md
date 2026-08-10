@@ -4,7 +4,7 @@ I’m an aspiring AI engineer with a growing interest in building intelligent, u
 
 I started my software engineering journey at **Refactory Academy** and I’m currently studying at **Turing College**. Right now, I’m focused on learning how AI systems work and how to turn them into practical tools that solve real problems.
 
-I enjoy learning by building — exploring Python, experimenting with ideas, and steadily developing the skills behind modern AI applications.
+I enjoy learning by building exploring Python, experimenting with ideas, and steadily developing the skills behind modern AI applications.
 
 **currently focused on:** AI engineering, Python, machine learning, and building projects.
 
