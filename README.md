@@ -14,7 +14,7 @@ I enjoy learning by building exploring Python, experimenting with ideas, and ste
 
 ### learning & building with
 
-`Python` · `AI` · `Machine Learning` · `Git` · `GitHub` · `Django `
+`Python` · `AI` · `Machine Learning` · `Git` · `GitHub` · `Django `. 'React' .'JavaScript'
 
 ---
 
